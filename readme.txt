@@ -6,5 +6,9 @@ Git is free software !
 is very interesting!
 today is friday...aa
 test branch 2!
-I'm back!
+I'm back!aa
+<<<<<<< HEAD
 I'm lost
+=======
+I want go home
+>>>>>>> dev2
